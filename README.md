@@ -1,2 +1,2 @@
-# Croissants
+# Croissants 🥐
 Created with CodeSandbox
