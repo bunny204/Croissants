@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  background: radial-gradient(
+    circle at 10% 20%,
+    rgba(216, 241, 230, 0.46) 0.1%,
+    rgba(233, 226, 226, 0.28) 90.1%
+  );
+}
+h1 {
+  margin: 40px auto;
+}
+.my-pic {
+  margin-top: 30px;
+  max-block-size: 200px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 5px 5px gray;
+}
